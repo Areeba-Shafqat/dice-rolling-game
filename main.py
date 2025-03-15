@@ -1,6 +1,5 @@
 import random
 
-
 while True:
     user_input=input("Roll the dice? (y/n)").lower()
     if user_input=="y":
